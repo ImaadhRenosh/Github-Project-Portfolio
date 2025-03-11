@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through intensive, project-based courses such as CS50, CS50 AI, and Stanford's Machine Learning Specialization (taught by AI visionary Andrew Ng), I have acquired essential skills and developed projects with strong potential to address real-world challenges. <br><br>These projects have enabled me to gain practical expertise in deep learning, natural language processing, and computer vision. Moreover, I thrive on transforming complex data into intelligent, scalable solutions that drive tangible impact. I am continually eager to learn and adopt emerging technologies in AI and machine learning, and my goal is to join a forward-thinking tech company where I can leverage cutting-edge algorithms to solve challenging problems and help shape the future of technology.<br><br>I’m actively seeking an internship while I am in Sri Lanka, where I can contribute to innovative projects, collaborate with industry experts, and further hone my technical abilities as an aspiring ML/AI engineer. Let’s connect and create impactful solutions together.</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -13,10 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
 </div>
-
-###
-
-<p align="left">I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through intensive, project-based courses such as CS50, CS50 AI, and Stanford's Machine Learning Specialization (taught by AI visionary Andrew Ng), I have acquired essential skills and developed projects with strong potential to address real-world challenges. <br><br>These projects have enabled me to gain practical expertise in deep learning, natural language processing, and computer vision. Moreover, I thrive on transforming complex data into intelligent, scalable solutions that drive tangible impact. I am continually eager to learn and adopt emerging technologies in AI and machine learning, and my goal is to join a forward-thinking tech company where I can leverage cutting-edge algorithms to solve challenging problems and help shape the future of technology.<br><br>I’m actively seeking an internship while I am in Sri Lanka, where I can contribute to innovative projects, collaborate with industry experts, and further hone my technical abilities as an aspiring ML/AI engineer. Let’s connect and create impactful solutions together.</p>
 
 ###
 
