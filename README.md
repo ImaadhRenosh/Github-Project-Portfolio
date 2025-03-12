@@ -34,12 +34,12 @@
 - **Real-time Object Detection**: Implemented an object detection system using Python and OpenCV. [Repository Link](#)
 
 ## 📜 Certifications and Courses
-- **IBM AI Engineering Professional Certificate, Coursera** - Sri Lanka, February 2025 - March 2025 (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
-- **TensorFlow Developer Specialization, DeepLearning.AI via Coursera** - Sri Lanka, February 2025 (4 courses: Intro to TensorFlow, CNNs, NLP, Time Series)
-- **Machine Learning Specialization, Stanford Online via Coursera** - Sri Lanka, January - February 2025 (3 courses: Supervised ML, Advanced Algorithms, Unsupervised Learning)
-- **CS50AI: Artificial Intelligence with Python, Harvard via edX** - Sri Lanka, January - February 2025
-- **CS50x: Introduction to Computer Science, Harvard via edX** - Saudi Arabia, May 2023 - July 2023
-- **Java Certification Program, W3Schools** - Saudi Arabia, December 2022 - May 2023
+- **IBM AI Engineering Professional Certificate, Coursera** - (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
+- **TensorFlow Developer Specialization, DeepLearning.AI via Coursera** - (4 courses: Intro to TensorFlow, CNNs, NLP, Time Series)
+- **Machine Learning Specialization, Stanford Online via Coursera** - (3 courses: Supervised ML, Advanced Algorithms, Unsupervised Learning)
+- **CS50AI: Artificial Intelligence with Python, Harvard via edX** 
+- **CS50x: Introduction to Computer Science, Harvard via edX** 
+- **Java Certification Program, W3Schools** 
 
 ## 📫 Contact Me
 <div align="center">
