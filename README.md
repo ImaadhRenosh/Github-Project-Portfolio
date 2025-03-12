@@ -1,7 +1,5 @@
 <h2 align="left">Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of computer vision with my expertise!</h2>
 
-<h2 align="left">Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of computer vision with my expertise!</h2>
-
 <p align="left">I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through intensive study and practical experience, I have developed a deep understanding of AI and its applications. I am dedicated to leveraging my skills to solve real-world problems and contribute to the advancement of technology.</p>
 
 <div align="center">
