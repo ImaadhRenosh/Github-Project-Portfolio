@@ -30,8 +30,14 @@
 </ul>
 
 ## 🌟 Key Projects
-- **Image Classification System**: Developed a deep learning model using TensorFlow for classifying images with 95% accuracy. [Repository Link](#)
-- **Real-time Object Detection**: Implemented an object detection system using Python and OpenCV. [Repository Link](#)
+- **Concrete Strength Regression Model with Keras (IBM: Course 2)**
+  Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost accuracy.
+- **Tic-Tac-Toe with Minimax AI (CS50AI)**
+  Developed an unbeatable Tic-Tac-Toe AI using Python’s Minimax with alpha-beta pruning, cutting computation time by 40% for 362,880 game states.
+- **Knowledge-Based Question Answering System (CS50AI)**
+  Created a Python-based question-answering system using propositional logic and NLP techniques, achieving 95% accuracy on 50 test queries.
+- **Webpage Search Engine (CS50x)**
+  Designed a search engine using Python, HTML, and CSS with a PageRank algorithm, enabling retrieval in under 1 second for 1,000 pages.
 
 ## 📜 Certifications and Courses
 - **IBM AI Engineering Professional Certificate, Coursera** - (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
