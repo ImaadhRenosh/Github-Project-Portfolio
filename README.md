@@ -1,6 +1,6 @@
 <h2 align="left">Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of computer vision with my expertise!</h2>
 
-<p align="left">I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through intensive study and practical experience, I have developed a deep understanding of AI and its applications. I am dedicated to leveraging my skills to solve real-world problems and contribute to the advancement of technology.</p>
+<p align="left">I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through int[...]
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" alt="Machine Learning Badge"/>
@@ -39,7 +39,7 @@
 - **Webpage Search Engine (CS50x)**
   Designed a search engine using Python, HTML, and CSS with a PageRank algorithm, enabling retrieval in under 1 second for 1,000 pages.
 
-## 📜 Certifications and Courses
+## 📜 Specializations/ Courses and Professional Certifications
 - **IBM AI Engineering Professional Certificate, Coursera** - (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
 - **TensorFlow Developer Specialization, DeepLearning.AI via Coursera** - (4 courses: Intro to TensorFlow, CNNs, NLP, Time Series)
 - **Machine Learning Specialization, Stanford Online via Coursera** - (3 courses: Supervised ML, Advanced Algorithms, Unsupervised Learning)
