@@ -1,6 +1,6 @@
 <h2 align="left">Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of computer vision with my expertise!</h2>
 
-<p align="left">I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through intensive study and practical experience, I have honed my skills in developing, optimizing, and deploying machine learning models. I am particularly interested in deep learning, computer vision, and natural language processing.</p>
+<p align="left">I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through int[...]</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" alt="Machine Learning Badge"/>
@@ -16,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn logo" />
 </div>
 <ul>
   <li><b>Python</b>: Extensive experience in developing ML models and data processing.</li>
@@ -23,19 +25,25 @@
   <li><b>Java</b>: Built backend systems and integrated APIs for data processing.</li>
   <li><b>VSCode</b>: Proficient in using VSCode for coding and debugging.</li>
   <li><b>NumPy</b>: Utilized for numerical computations and data manipulation.</li>
+  <li><b>Matplotlib</b>: Used for data visualization and plotting complex graphs.</li>
+  <li><b>Scikit-Learn</b>: Implemented machine learning algorithms and models.</li>
 </ul>
 
 ## 🌟 Key Projects
 - **Image Classification System**: Developed a deep learning model using TensorFlow for classifying images with 95% accuracy. [Repository Link](#)
 - **Real-time Object Detection**: Implemented an object detection system using Python and OpenCV. [Repository Link](#)
 
-## 📜 Certifications and Awards
-- Certified TensorFlow Developer
-- Coursera Machine Learning by Stanford University
+## 📜 Certifications and Courses
+- **IBM AI Engineering Professional Certificate, Coursera** - Sri Lanka, February 2025 - March 2025 (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
+- **TensorFlow Developer Specialization, DeepLearning.AI via Coursera** - Sri Lanka, February 2025 (4 courses: Intro to TensorFlow, CNNs, NLP, Time Series)
+- **Machine Learning Specialization, Stanford Online via Coursera** - Sri Lanka, January - February 2025 (3 courses: Supervised ML, Advanced Algorithms, Unsupervised Learning)
+- **CS50AI: Artificial Intelligence with Python, Harvard via edX** - Sri Lanka, January - February 2025
+- **CS50x: Introduction to Computer Science, Harvard via edX** - Saudi Arabia, May 2023 - July 2023
+- **Java Certification Program, W3Schools** - Saudi Arabia, December 2022 - May 2023
 
 ## 📫 Contact Me
 <div align="center">
-  <a href="www.linkedin.com/in/imaadh-renosh-007aba348">
+  <a href="https://www.linkedin.com/in/imaadh-renosh-007aba348">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="mailto:imaadhrenosh@gmail.com">
