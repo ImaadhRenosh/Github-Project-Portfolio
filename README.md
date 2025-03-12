@@ -1,4 +1,4 @@
-<h2 align="left"><u>Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of computer vision with my expertise!</u></h2>
+<h2 align="left"><u>Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of AI with my expertise!</u></h2>
 
 <p align="left"><u>I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through intensive, project-based courses such as CS50, CS50 AI, and Stanford's Machine Learning Specialization (taught by AI visionary Andrew Ng), I have acquired essential skills and developed projects with strong potential to address real-world challenges. 
 
