@@ -1,6 +1,10 @@
 <h2 align="left"><u>Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of computer vision with my expertise!</u></h2>
 
-<p align="left"><u>I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through int[..[...]
+<p align="left"><u>I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through intensive, project-based courses such as CS50, CS50 AI, and Stanford's Machine Learning Specialization (taught by AI visionary Andrew Ng), I have acquired essential skills and developed projects with strong potential to address real-world challenges. 
+
+These projects have enabled me to gain practical expertise in deep learning, natural language processing, and computer vision. Moreover, I thrive on transforming complex data into intelligent, scalable solutions that drive tangible impact. I am continually eager to learn and adopt emerging technologies in AI and machine learning, and my goal is to join a forward-thinking tech company where I can leverage cutting-edge algorithms to solve challenging problems and help shape the future of technology.
+
+I’m actively seeking an internship while I am in Sri Lanka, where I can contribute to innovative projects, collaborate with industry experts, and further hone my technical abilities as an aspiring ML/AI engineer. Let’s connect and create impactful solutions together.</u></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" alt="Machine Learning Badge"/>
