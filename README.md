@@ -29,24 +29,19 @@
 - **Image Classification System**: Developed a deep learning model using TensorFlow for classifying images with 95% accuracy. [Repository Link](#)
 - **Real-time Object Detection**: Implemented an object detection system using Python and OpenCV. [Repository Link](#)
 
-## 💼 Professional Experience
-- **AI Engineer at XYZ Ltd.** (2022-Present)
-  - Developed machine learning models for predictive analytics, improving accuracy by 20%.
-  - Collaborated with cross-functional teams to deploy AI solutions.
-
 ## 📜 Certifications and Awards
 - Certified TensorFlow Developer
 - Coursera Machine Learning by Stanford University
 
 ## 📫 Contact Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/imaadh-renosh-007aba348">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:imaadhrenosh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://www.instagram.com/yourprofile">
+  <a href="https://www.instagram.com/im44dh">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
 </div>
