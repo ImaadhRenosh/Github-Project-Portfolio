@@ -30,7 +30,8 @@
 
 
 ## My Contribution Snake
-![github-snake](https://raw.githubusercontent.com/ImaadhRenosh/ImaadhRenosh/output/github-snake.svg)
+
+![github-snake](https://raw.githubusercontent.com/ImaadhRenosh/Github-Project-Portfolio/output/github-snake.svg)
 
 ###
 
