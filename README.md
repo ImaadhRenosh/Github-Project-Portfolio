@@ -34,12 +34,13 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 </ul>
 
 ## 🌟 <u>Key Projects</u>
-- **<u>[Concrete Strength Regression Model with Keras (IBM: Course 2)]</u>**
-  Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost accuracy.
-- **<u>[Tic-Tac-Toe with Minimax AI (CS50AI)]</u>**
-  Developed an unbeatable Tic-Tac-Toe AI using Python’s Minimax with alpha-beta pruning, cutting computation time by 40% for 362,880 game states.
-- **<u>[Knowledge-Based Question Answering System (CS50AI)]</u>**
-  Created a Python-based question-answering system using propositional logic and NLP techniques, achieving 95% accuracy on 50 test queries.
+
+### Primary Projects
+- **Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
+- **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
+- **Question Answering System** - An NLP project using TF-IDF to answer questions from text.
+
+### Additional Projects
 - **<u>[CS50AI Crossword Puzzle Generator](https://github.com/ImaadhRenosh/CS50AI--Crossword-Puzzle-Generator)</u>**
   This project, part of Harvard's CS50 Introduction to Artificial Intelligence with Python, involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate solutions.
 - **<u>[CS50AI Degrees of Separation](https://github.com/ImaadhRenosh/CS50AI---Degrees-of-Separation)</u>**
