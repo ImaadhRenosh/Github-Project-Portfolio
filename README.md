@@ -39,7 +39,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ### **<u>Primary Projects</u>**
 
-- **Concrete Strength Regression Model with Keras (IBM: Course 2)** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost accuracy. (Sri Lanka, March 2025)
+- **(IBM: Course 2) Concrete Strength Regression Model with Keras** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost accuracy.
 - **CS50AI Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
 - **CS50AI Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
 - **CS50AI Question Answering System** - An NLP project using TF-IDF to answer questions from text.
