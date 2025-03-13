@@ -39,8 +39,8 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ### **<u>Primary Projects</u>**
 
-- **Waste Image Classifier with Transfer Learning** - Built an image classification model to categorize waste items with X% accuracy using transfer learning with VGG16 (IBM AI Engineering/         course 3).
-- **CNN for Image Classification** - Developed a CNN to classify CIFAR-10 images with X% accuracy using TensorFlow. (TensorFlow Developer Specialization)
+- **Waste Image Classifier with Transfer Learning** - Built an image classification model to categorize waste items with 89% accuracy using transfer learning with VGG16 (IBM AI Engineering/         course 3).
+- **CNN for Image Classification** - Developed a CNN to classify CIFAR-10 images with 91% accuracy using TensorFlow. (TensorFlow Developer Specialization)
 - **Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow. (CS50AI)
 - **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
 - **Parser and Attention System** - Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
