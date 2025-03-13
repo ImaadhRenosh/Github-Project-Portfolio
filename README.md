@@ -36,10 +36,14 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ## 🌟 <u>Key Projects</u>
 
+
 ### **<u>Primary Projects</u>**
+
+- **Concrete Strength Regression Model with Keras (IBM: Course 2)** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost accuracy. (Sri Lanka, March 2025)
 - **CS50AI Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
 - **CS50AI Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
 - **CS50AI Question Answering System** - An NLP project using TF-IDF to answer questions from text.
+
 
 ### **<u>Additional Projects</u>**
 - **<u>[CS50AI Crossword Puzzle Generator](https://github.com/ImaadhRenosh/CS50AI--Crossword-Puzzle-Generator)</u>**
@@ -48,6 +52,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
   Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
 - **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL)</u>**
   A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
+
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
 - **<u>IBM AI Engineering Professional Certificate, Coursera</u>** - (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
