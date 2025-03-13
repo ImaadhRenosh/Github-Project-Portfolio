@@ -43,7 +43,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 - **CNN for Image Classification** - Developed a CNN to classify CIFAR-10 images with X% accuracy using TensorFlow. (TensorFlow Developer Specialization)
 - **Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow. (CS50AI)
 - **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
-- **Parser and Attention System** - Implemented a parser and attention mechanism to enhance question answering (CS50AI 2024). (CS50AI)
+- **Parser and Attention System** - Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
 
 
 ### **<u>Additional Projects</u>**
