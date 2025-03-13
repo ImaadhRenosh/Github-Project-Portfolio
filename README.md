@@ -40,8 +40,8 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
   Developed an unbeatable Tic-Tac-Toe AI using Python’s Minimax with alpha-beta pruning, cutting computation time by 40% for 362,880 game states.
 - **<u>[Knowledge-Based Question Answering System (CS50AI)](https://github.com/ImaadhRenosh/cs50-ai-question-answering)</u>**
   Created a Python-based question-answering system using propositional logic and NLP techniques, achieving 95% accuracy on 50 test queries.
-- **<u>[Webpage Search Engine (CS50x)](https://github.com/ImaadhRenosh/cs50x-webpage-search-engine)</u>**
-  Designed a search engine using Python, HTML, and CSS with a PageRank algorithm, enabling retrieval in under 1 second for 1,000 pages.
+- **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL)</u>**
+  A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
 - **<u>IBM AI Engineering Professional Certificate, Coursera</u>** - (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
