@@ -39,13 +39,16 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ### **<u>Primary Projects</u>**
 
-- **(IBM: Course 2) Concrete Strength Regression Model with Keras** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost accuracy.
-- **CS50AI Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
-- **CS50AI Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
-- **CS50AI Question Answering System** - An NLP project using TF-IDF to answer questions from text.
+- **Waste Image Classifier with Transfer Learning** - Built an image classification model to categorize waste items with X% accuracy using transfer learning with VGG16 (IBM AI Engineering/         course 3).
+- **CNN for Image Classification** - Developed a CNN to classify CIFAR-10 images with X% accuracy using TensorFlow. (TensorFlow Developer Specialization)
+- **Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow. (CS50AI)
+- **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
+- **Parser and Attention System** - Implemented a parser and attention mechanism to enhance question answering (CS50AI 2024). (CS50AI)
 
 
 ### **<u>Additional Projects</u>**
+
+- **Concrete Strength Regression Model with Keras** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost    accuracy. (IBM AI Engineering/Course 2) 
 - **<u>[CS50AI Crossword Puzzle Generator](https://github.com/ImaadhRenosh/CS50AI--Crossword-Puzzle-Generator)</u>**
   This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate solutions.
 - **<u>[CS50AI Degrees of Separation](https://github.com/ImaadhRenosh/CS50AI---Degrees-of-Separation)</u>**
