@@ -36,10 +36,14 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 ## 🌟 <u>Key Projects</u>
 - **<u>[Concrete Strength Regression Model with Keras (IBM: Course 2)]</u>**
   Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost accuracy.
-- **<u>[Tic-Tac-Toe with Minimax AI (CS50AI)](https://github.com/ImaadhRenosh/Tic-Tac-Toe-with-Minimax-AI)</u>**
+- **<u>[Tic-Tac-Toe with Minimax AI (CS50AI)]</u>**
   Developed an unbeatable Tic-Tac-Toe AI using Python’s Minimax with alpha-beta pruning, cutting computation time by 40% for 362,880 game states.
-- **<u>[Knowledge-Based Question Answering System (CS50AI)](https://github.com/ImaadhRenosh/Knowledge-Based-Question-Answering-System)</u>**
+- **<u>[Knowledge-Based Question Answering System (CS50AI)]</u>**
   Created a Python-based question-answering system using propositional logic and NLP techniques, achieving 95% accuracy on 50 test queries.
+- **<u>[CS50AI Crossword Puzzle Generator](https://github.com/ImaadhRenosh/CS50AI--Crossword-Puzzle-Generator)</u>**
+  This project, part of Harvard's CS50 Introduction to Artificial Intelligence with Python, involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction problems (CSP) techniques to fill in a given crossword grid with valid words from a predefined vocabulary.
+- **<u>[CS50AI Degrees of Separation](https://github.com/ImaadhRenosh/CS50AI---Degrees-of-Separation)</u>**
+  Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
 - **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL)</u>**
   A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
 
