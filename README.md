@@ -36,29 +36,18 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ## 🌟 <u>Key Projects</u>
 
-### <u>Primary Projects</u>
+### **<u>Primary Projects</u>**
 - **CS50AI Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
 - **CS50AI Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
 - **CS50AI Question Answering System** - An NLP project using TF-IDF to answer questions from text.
 
-### <u>Additional Projects</u>
+### **<u>Additional Projects</u>**
 - **<u>[CS50AI Crossword Puzzle Generator](https://github.com/ImaadhRenosh/CS50AI--Crossword-Puzzle-Generator)</u>**
   This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate solutions.
 - **<u>[CS50AI Degrees of Separation](https://github.com/ImaadhRenosh/CS50AI---Degrees-of-Separation)</u>**
   Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
 - **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL)</u>**
   A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
-
-### <u>Primary Projects</u>
-1. **Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
-2. **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
-3. **Question Answering System** - An NLP project using TF-IDF to answer questions from text.
-
-### <u>Additional Projects</u>
-- **Tic-Tac-Toe AI** - Minimax algorithm for an unbeatable AI player.
-- **Crossword** - Logic-based solver for crossword puzzles.
-- **Degrees of Separation** - Graph-based analysis of connections.
-
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
 - **<u>IBM AI Engineering Professional Certificate, Coursera</u>** - (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
