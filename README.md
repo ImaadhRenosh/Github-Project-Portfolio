@@ -34,13 +34,13 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 </ul>
 
 ## 🌟 <u>Key Projects</u>
-- **<u>Concrete Strength Regression Model with Keras (IBM: Course 2)</u>**
+- **<u>[Concrete Strength Regression Model with Keras (IBM: Course 2)](https://github.com/ImaadhRenosh/concrete-strength-regression)</u>**
   Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost accuracy.
-- **<u>Tic-Tac-Toe with Minimax AI (CS50AI)</u>**
+- **<u>[Tic-Tac-Toe with Minimax AI (CS50AI)](https://github.com/ImaadhRenosh/cs50-ai-tictactoe)</u>**
   Developed an unbeatable Tic-Tac-Toe AI using Python’s Minimax with alpha-beta pruning, cutting computation time by 40% for 362,880 game states.
-- **<u>Knowledge-Based Question Answering System (CS50AI)</u>**
+- **<u>[Knowledge-Based Question Answering System (CS50AI)](https://github.com/ImaadhRenosh/cs50-ai-question-answering)</u>**
   Created a Python-based question-answering system using propositional logic and NLP techniques, achieving 95% accuracy on 50 test queries.
-- **<u>Webpage Search Engine (CS50x)</u>**
+- **<u>[Webpage Search Engine (CS50x)](https://github.com/ImaadhRenosh/cs50x-webpage-search-engine)</u>**
   Designed a search engine using Python, HTML, and CSS with a PageRank algorithm, enabling retrieval in under 1 second for 1,000 pages.
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
