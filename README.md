@@ -1,10 +1,10 @@
 <h2 align="left"><u>Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of AI with my expertise!</u></h2>
 
-<p align="left"><u>I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through intensive, project-based courses such as CS50, CS50 AI, and Stanford's Machine Learning Specialization (taught by AI visionary Andrew Ng), I have acquired essential skills and developed projects with strong potential to address real-world challenges. 
+<p align="left"><u>I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through [...]
 
-These projects have enabled me to gain practical expertise in deep learning, natural language processing, and computer vision. Moreover, I thrive on transforming complex data into intelligent, scalable solutions that drive tangible impact. I am continually eager to learn and adopt emerging technologies in AI and machine learning, and my goal is to join a forward-thinking tech company where I can leverage cutting-edge algorithms to solve challenging problems and help shape the future of technology.
+These projects have enabled me to gain practical expertise in deep learning, natural language processing, and computer vision. Moreover, I thrive on transforming complex data into intelligent, scalable solutions that drive real-world impact.
 
-I’m actively seeking an internship while I am in Sri Lanka, where I can contribute to innovative projects, collaborate with industry experts, and further hone my technical abilities as an aspiring ML/AI engineer. Let’s connect and create impactful solutions together.</u></p>
+I’m actively seeking an internship while I am in Sri Lanka, where I can contribute to innovative projects, collaborate with industry experts, and further hone my technical abilities as an aspiring AI engineer.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" alt="Machine Learning Badge"/>
@@ -41,11 +41,21 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 - **<u>[Knowledge-Based Question Answering System (CS50AI)]</u>**
   Created a Python-based question-answering system using propositional logic and NLP techniques, achieving 95% accuracy on 50 test queries.
 - **<u>[CS50AI Crossword Puzzle Generator](https://github.com/ImaadhRenosh/CS50AI--Crossword-Puzzle-Generator)</u>**
-  This project, part of Harvard's CS50 Introduction to Artificial Intelligence with Python, involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction problems (CSP) techniques to fill in a given crossword grid with valid words from a predefined vocabulary.
+  This project, part of Harvard's CS50 Introduction to Artificial Intelligence with Python, involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate solutions.
 - **<u>[CS50AI Degrees of Separation](https://github.com/ImaadhRenosh/CS50AI---Degrees-of-Separation)</u>**
   Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
 - **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL)</u>**
   A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
+
+### Primary Projects
+1. **Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
+2. **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
+3. **Question Answering System** - An NLP project using TF-IDF to answer questions from text.
+
+### Additional Projects
+- **Tic-Tac-Toe AI** - Minimax algorithm for an unbeatable AI player.
+- **Crossword** - Logic-based solver for crossword puzzles.
+- **Degrees of Separation** - Graph-based analysis of connections.
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
 - **<u>IBM AI Engineering Professional Certificate, Coursera</u>** - (In Progress, completed 2/13 courses: ML with Python, Deep Learning with Keras)
