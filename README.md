@@ -36,13 +36,13 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 ## 🌟 <u>Key Projects</u>
 
 ### Primary Projects
-- **Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
-- **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
-- **Question Answering System** - An NLP project using TF-IDF to answer questions from text.
+- **CS50AI Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow.
+- **CS50AI Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn.
+- **CS50AI Question Answering System** - An NLP project using TF-IDF to answer questions from text.
 
 ### Additional Projects
 - **<u>[CS50AI Crossword Puzzle Generator](https://github.com/ImaadhRenosh/CS50AI--Crossword-Puzzle-Generator)</u>**
-  This project, part of Harvard's CS50 Introduction to Artificial Intelligence with Python, involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate solutions.
+  This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate solutions.
 - **<u>[CS50AI Degrees of Separation](https://github.com/ImaadhRenosh/CS50AI---Degrees-of-Separation)</u>**
   Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
 - **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL)</u>**
