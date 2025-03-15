@@ -40,7 +40,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 ### **<u>Primary Projects</u>**
 
 - **[Waste Image Classifier with Transfer Learning](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning)** - Built an image classification model to categorize waste items with 89% accuracy using transfer learning with VGG16 (IBM AI Engineering/        course 3).
-- **Time Series Forecasting with RNNs, LSTMs, and 1D ConvNets** - Developed models using Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, and 1D Convolutional Neural    Networks (1D ConvNets) to predict sunspot activity, achieving accurate forecasts with TensorFlow. (TensorFlow Developer Specialization)
+- **Melbourne Temperature Prediction Model** - Created a hybrid CNN-LSTM model to forecast daily minimum temperatures in Melbourne (1981–1990) using real-world data, achieving an MAE of 2.1°C (TensorFlow Developer Specialization, Final Project).
 - **Traffic Sign Classifier** - A deep learning model (CNN) to classify traffic signs with 95% accuracy. Built with Python and TensorFlow. (CS50AI)
 - **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
 - **Parser and Attention System** - Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
