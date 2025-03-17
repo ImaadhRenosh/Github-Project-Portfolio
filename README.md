@@ -39,9 +39,9 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ### **<u>Primary Projects</u>**
 
-- **[Waste Image Classifier with Transfer Learning](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning)** - Built an image classification model to categorize waste items with 89% accuracy using transfer learning with VGG16 (IBM AI Engineering/        course 3).
+- **[Waste Image Classifier with Transfer Learning](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning)** - Developed a waste image classifier leveraging Python and TensorFlow via a VGG16 transfer learning approach with 89% accuracy, enabling better waste sorting for environmental sustainability worldwide.(IBM AI Engineering/course 3).
 - **Melbourne Temperature Prediction Model** - Developed a hybrid CNN-LSTM model to forecast daily minimum temperatures in Melbourne (1981–1990) using real-world data from Jason Brownlee’s repository (https://github.com/jbrownlee/Datasets). Parsed CSV data to create a time series, achieving an MAE of 2.1°C (TensorFlow Developer Specialization, Final Project).
-- **Traffic Sign Classifier** - A TensorFlow CNN that classifies 43 road sign types from the GTSRB dataset with 95% accuracy for self-driving car vision. It was built with Python and deep learning to tackle real-world computer vision challenges (CS50AI).
+- **Traffic Sign Classifier** - Developed a traffic sign recognition tool classifying 43 different road sign types with a CNN built in TensorFlow and Python using the GTSRB dataset achieving 95% accuracy, improving self-driving car vision reliability for safer roads globally.
 - **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
 - **Parser and Attention System** - Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
 
