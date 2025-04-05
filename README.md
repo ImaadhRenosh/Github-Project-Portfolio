@@ -56,10 +56,8 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 ### **<u>Additional Projects</u>**
 
 - **Concrete Strength Regression Model with Keras** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost    accuracy. (IBM AI Engineering/Course 2) 
-- **<u>[CS50AI Crossword Puzzle Generator](https://github.com/ImaadhRenosh/CS50AI--Crossword-Puzzle-Generator)</u>**
-  This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate solutions.
-- **<u>[CS50AI Degrees of Separation](https://github.com/ImaadhRenosh/CS50AI---Degrees-of-Separation)</u>**
-  Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
+- **CS50AI Crossword Puzzle Generator** - This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate      solutions.
+- **CS50AI Degrees of Separation** - Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
 - **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL)</u>**
   A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
 
