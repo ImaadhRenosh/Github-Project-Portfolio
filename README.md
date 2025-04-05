@@ -39,6 +39,11 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ### **<u>Primary Projects</u>**
 
+
+- **[IBM-certified, AI-powered Concrete Crack Detection-System Capstone Project](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project):**  
+  Developed an AI-powered system using PyTorch to detect cracks in concrete structures, which involved fine-tuning a pre-trained ResNet18 model, analyzing training loss curves, and identifying misclassified samples to improve structural health monitoring, finally achieving 99.43% accuracy on the validation dataset.
+- **[Fashion Item Image Classifier (Fashion-MNIST)](https://github.com/ImaadhRenosh/Fashion-MNIST-clothing-image-classifier):**  
+  Built a CNN model with Batch Normalization using PyTorch to classify grayscale images of fashion items from the Fashion-MNIST dataset into 10 distinct categories via softmax regression through custom softmax and argmax functions, achieving 88.5% accuracy and reducing loss from 300 to 160 over 4 epochs.
 - **[Game Match Win Prediction Model (League of Legends)](https://github.com/ImaadhRenosh/Game-Match-Win-Prediction-Model-League-of-Legends-)** - Developed an optimized PyTorch model via Python, to predict League of Legends match wins using 8 features (kills, deaths, assists, gold_earned, cs, wards_placed, wards_killed, damage_dealt), achieving 55.50% test accuracy (53.87% training), despite the limited predictive power of raw features 
 (correlations < 0.07).
 - **[Waste Image Classifier with Transfer Learning (V6616 model)](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning-VGG16)** - Developed a waste image classifier leveraging Python and TensorFlow via a VGG16 transfer learning approach with 89% accuracy, enabling better waste sorting for environmental sustainability worldwide.(IBM AI Engineering/course 3).
