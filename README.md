@@ -46,23 +46,23 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 (correlations < 0.07).
 - **[Waste Image Classifier with Transfer Learning (V6616 model)](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning-VGG16):**
   Developed a waste image classifier leveraging Python and TensorFlow via a VGG16 transfer learning approach with 89% accuracy, enabling better waste sorting for environmental sustainability worldwide.(IBM AI Engineering/course 3).
-- **Melbourne Temperature Prediction Model:**
+- **<u>Melbourne Temperature Prediction Model:</u>**
   Developed a hybrid CNN-LSTM model to forecast daily minimum temperatures in Melbourne (1981–1990) using real-world data from Jason Brownlee’s repository   
   (https://github.com/jbrownlee/Datasets). Parsed CSV data to create a time series, achieving an MAE of 2.1°C (TensorFlow Developer Specialization, Final Project).
-- **Traffic Sign Classifier:**
+- **<u>Traffic Sign Classifier:</u>**
   Developed a traffic sign recognition tool classifying 43 different road sign types with a CNN built in TensorFlow and Python using the GTSRB dataset achieving 95% accuracy, improving self- 
   driving car vision reliability for safer roads globally.
-- **Handwritten Digit Recognition:**
+- **<u>Handwritten Digit Recognition:</u>**
   An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
-- **Parser and Attention System:**
+- **<u>Parser and Attention System:</u>**
   Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
 
 ### <u>Additional Projects</u>
 
-- **Concrete Strength Regression Model with Keras** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost    accuracy. (IBM AI Engineering/Course 2) 
-- **CS50AI Crossword Puzzle Generator:**
+- **<u>Concrete Strength Regression Model with Keras</u>** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost    accuracy. (IBM AI Engineering/Course 2) 
+- **<u>CS50AI Crossword Puzzle Generator:</u>**
   This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate      solutions.
-- **CS50AI Degrees of Separation:**
+- **<u>CS50AI Degrees of Separation:</u>**
   Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
 - **[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL):**
   A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
