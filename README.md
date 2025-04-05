@@ -36,9 +36,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ## 🌟 <u>Key Projects</u>
 
-
-### **<u>Primary Projects</u>**
-
+### <u>Primary Projects</u>
 
 - **[IBM-certified Capstone Project: AI-powered Concrete Crack Detection System(Resnet-18)](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project):**  
   Developed an AI-powered system using PyTorch to detect cracks in concrete structures, which involved fine-tuning a pre-trained ResNet18 model, analyzing training loss curves, and identifying misclassified samples to improve structural health monitoring, finally achieving 99.43% accuracy on the validation dataset.
@@ -60,15 +58,14 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 - **Parser and Attention System:**
   Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
 
-
-### **<u>Additional Projects</u>**
+### <u>Additional Projects</u>
 
 - **Concrete Strength Regression Model with Keras** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost    accuracy. (IBM AI Engineering/Course 2) 
 - **CS50AI Crossword Puzzle Generator:**
   This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate      solutions.
 - **CS50AI Degrees of Separation:**
   Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
-- **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL):</u>**
+- **[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL):**
   A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
 
 
