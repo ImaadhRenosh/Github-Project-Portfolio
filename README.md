@@ -40,7 +40,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 ### **<u>Primary Projects</u>**
 
 
-- **[IBM-certified, AI-powered Concrete Crack Detection-System Capstone Project](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project):**  
+- **[IBM-certified Capstone Project: AI-powered Concrete Crack Detection System(Resnet-18)](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project):**  
   Developed an AI-powered system using PyTorch to detect cracks in concrete structures, which involved fine-tuning a pre-trained ResNet18 model, analyzing training loss curves, and identifying misclassified samples to improve structural health monitoring, finally achieving 99.43% accuracy on the validation dataset.
 - **[Fashion Item Image Classifier (Fashion-MNIST)](https://github.com/ImaadhRenosh/Fashion-MNIST-clothing-image-classifier):**  
   Built a CNN model with Batch Normalization using PyTorch to classify grayscale images of fashion items from the Fashion-MNIST dataset into 10 distinct categories via softmax regression through custom softmax and argmax functions, achieving 88.5% accuracy and reducing loss from 300 to 160 over 4 epochs.
