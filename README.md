@@ -44,26 +44,36 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
   Developed an AI-powered system using PyTorch to detect cracks in concrete structures, which involved fine-tuning a pre-trained ResNet18 model, analyzing training loss curves, and identifying misclassified samples to improve structural health monitoring, finally achieving 99.43% accuracy on the validation dataset.
 - **[Fashion Item Image Classifier (Fashion-MNIST)](https://github.com/ImaadhRenosh/Fashion-MNIST-clothing-image-classifier):**  
   Built a CNN model with Batch Normalization using PyTorch to classify grayscale images of fashion items from the Fashion-MNIST dataset into 10 distinct categories via softmax regression through custom softmax and argmax functions, achieving 88.5% accuracy and reducing loss from 300 to 160 over 4 epochs.
-- **[Game Match Win Prediction Model (League of Legends)](https://github.com/ImaadhRenosh/Game-Match-Win-Prediction-Model-League-of-Legends-)** - Developed an optimized PyTorch model via Python, to predict League of Legends match wins using 8 features (kills, deaths, assists, gold_earned, cs, wards_placed, wards_killed, damage_dealt), achieving 55.50% test accuracy (53.87% training), despite the limited predictive power of raw features 
+- **[Game Match Win Prediction Model (League of Legends)](https://github.com/ImaadhRenosh/Game-Match-Win-Prediction-Model-League-of-Legends-):**
+  Developed an optimized PyTorch model via Python, to predict League of Legends match wins using 8 features (kills, deaths, assists, gold_earned, cs, wards_placed, wards_killed, damage_dealt), achieving 55.50% test accuracy (53.87% training), despite the limited predictive power of raw features 
 (correlations < 0.07).
-- **[Waste Image Classifier with Transfer Learning (V6616 model)](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning-VGG16)** - Developed a waste image classifier leveraging Python and TensorFlow via a VGG16 transfer learning approach with 89% accuracy, enabling better waste sorting for environmental sustainability worldwide.(IBM AI Engineering/course 3).
-- **Melbourne Temperature Prediction Model** - Developed a hybrid CNN-LSTM model to forecast daily minimum temperatures in Melbourne (1981–1990) using real-world data from Jason Brownlee’s repository (https://github.com/jbrownlee/Datasets). Parsed CSV data to create a time series, achieving an MAE of 2.1°C (TensorFlow Developer Specialization, Final Project).
-- **Traffic Sign Classifier** - Developed a traffic sign recognition tool classifying 43 different road sign types with a CNN built in TensorFlow and Python using the GTSRB dataset achieving 95% accuracy, improving self-driving car vision reliability for safer roads globally.
-- **Handwritten Digit Recognition** - An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
-- **Parser and Attention System** - Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
+- **[Waste Image Classifier with Transfer Learning (V6616 model)](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning-VGG16):**
+  Developed a waste image classifier leveraging Python and TensorFlow via a VGG16 transfer learning approach with 89% accuracy, enabling better waste sorting for environmental sustainability worldwide.(IBM AI Engineering/course 3).
+- **Melbourne Temperature Prediction Model:**
+  Developed a hybrid CNN-LSTM model to forecast daily minimum temperatures in Melbourne (1981–1990) using real-world data from Jason Brownlee’s repository   
+  (https://github.com/jbrownlee/Datasets). Parsed CSV data to create a time series, achieving an MAE of 2.1°C (TensorFlow Developer Specialization, Final Project).
+- **Traffic Sign Classifier:**
+  Developed a traffic sign recognition tool classifying 43 different road sign types with a CNN built in TensorFlow and Python using the GTSRB dataset achieving 95% accuracy, improving self- 
+  driving car vision reliability for safer roads globally.
+- **Handwritten Digit Recognition:**
+  An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
+- **Parser and Attention System:**
+  Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
 
 
 ### **<u>Additional Projects</u>**
 
 - **Concrete Strength Regression Model with Keras** - Built a concrete strength prediction model using Python and Keras, optimizing hyperparameters to reduce Mean Squared Error by 15% and boost    accuracy. (IBM AI Engineering/Course 2) 
-- **CS50AI Crossword Puzzle Generator** - This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate      solutions.
-- **CS50AI Degrees of Separation** - Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
-- **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL)</u>**
+- **CS50AI Crossword Puzzle Generator:**
+  This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate      solutions.
+- **CS50AI Degrees of Separation:**
+  Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
+- **<u>[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL):</u>**
   A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
 
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
-- **<u>IBM AI Engineering Professional Certificate, Coursera</u>** - (In Progress, completed 3/13 courses: ML with Python, Deep Learning with Keras, Deep Learning with Keras and Tensorflow)
+- **<u>IBM AI Engineering Professional Certificate, Coursera</u>** - (In Progress, completed 6/13 courses
 - **<u>TensorFlow Developer Specialization, DeepLearning.AI via Coursera</u>** - (4 courses: Intro to TensorFlow, CNNs, NLP, Time Series)
 - **<u>Machine Learning Specialization, Stanford Online via Coursera</u>** - (3 courses: Supervised ML, Advanced Algorithms, Unsupervised Learning)
 - **<u>CS50AI: Artificial Intelligence with Python, Harvard via edX</u>** 
