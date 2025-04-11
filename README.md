@@ -38,7 +38,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 ### <u>Primary Projects</u>
 
-- **[IBM-certified Capstone Project: AI-powered Concrete Crack Detection System(Resnet-18)](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project):**  
+- **[IBM-certified Capstone Project: AI-powered Concrete Crack Detection System (Resnet-18)](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project):**  
   Developed an AI-powered system using PyTorch to detect cracks in concrete structures, which involved fine-tuning a pre-trained ResNet18 model, analyzing training loss curves, and identifying misclassified samples to improve structural health monitoring, finally achieving 99.43% accuracy on the validation dataset.
 - **[Game Match Win Prediction Model (League of Legends)](https://github.com/ImaadhRenosh/Game-Match-Win-Prediction-Model-League-of-Legends-):**
   Developed an optimized PyTorch model via Python, to predict League of Legends match wins using 8 features (kills, deaths, assists, gold_earned, cs, wards_placed, wards_killed, damage_dealt), achieving 55.50% test accuracy (53.87% training), despite the limited predictive power of raw features 
