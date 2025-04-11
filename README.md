@@ -55,7 +55,9 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
   An ML system for digit recognition, leveraging image processing and scikit-learn. (CS50AI)
 - **<u>Parser and Attention System:</u>**
   Implemented a parser and attention mechanism to enhance question answering. (CS50AI)
-
+- **[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL):**
+  A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
+  
 ### <u>Additional Projects</u>
 
 - **<u>Fashion Item Image Classifier (Fashion-MNIST):</u>** Built a CNN model with Batch Normalization using PyTorch to classify grayscale images of fashion items from the Fashion-MNIST dataset into 10 distinct categories via softmax regression through custom softmax and argmax functions, achieving 88.5% accuracy and reducing loss from 300 to 160 over 4 epochs.
@@ -64,8 +66,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
   This project involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction algorithms to ensure accurate      solutions.
 - **<u>CS50AI Degrees of Separation:</u>**
   Inspired by the “Six Degrees of Kevin Bacon” concept, this project applies graph search algorithms (BFS) to determine the shortest connection between actors.
-- **[I-MAIL: Comprehensive Full-Stack Application (CS50x Final Project)](https://github.com/ImaadhRenosh/cs50x-final-project-I-MAIL):**
-  A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution.
+
 
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
