@@ -70,7 +70,7 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
-- **<u>IBM AI Engineering Professional Specialization Certificate, Coursera</u>** - (In Progress, completed 9/13 courses)
+- **<u>IBM AI Engineering Professional Specialization Certificate, Coursera</u>** - (In Progress, completed 9/13 courses), includes 9 Professional Badges issued by IBM through Coursera and Credly
 - **IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Specialization Certificate, Coursera</u>** - (4 courses: Introduction to Deep Learning & Neural Networks with Keras, Deep Learning with Keras and Tensorflow, Introduction to Neural Networks and PyTorch, Deep Learning with PyTorch, AI Capstone Project with Deep Learning)
 - **<u>TensorFlow Developer Professional Specialization Certificate, DeepLearning.AI via Coursera</u>** - (4 courses: Intro to TensorFlow, CNNs, NLP, Time Series)
 - **<u>Machine Learning Professional Specialization Certificate, Stanford Online via Coursera</u>** - (3 courses: Supervised ML, Advanced Algorithms, Unsupervised Learning)
