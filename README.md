@@ -70,11 +70,11 @@ I’m actively seeking an internship while I am in Sri Lanka, where I can contri
 
 
 ## 📜 <u>Specializations/ Courses and Professional Certifications</u>
-- **<u>IBM AI Engineering Professional Certificate, Coursera</u>** - (In Progress, completed 6/13 courses
-- **<u>TensorFlow Developer Specialization, DeepLearning.AI via Coursera</u>** - (4 courses: Intro to TensorFlow, CNNs, NLP, Time Series)
-- **<u>Machine Learning Specialization, Stanford Online via Coursera</u>** - (3 courses: Supervised ML, Advanced Algorithms, Unsupervised Learning)
-- **<u>CS50AI: Artificial Intelligence with Python, Harvard via edX</u>** 
-- **<u>CS50x: Introduction to Computer Science, Harvard via edX</u>** 
+- **<u>IBM AI Engineering Professional Specialization Certificate, Coursera</u>** - (In Progress, completed 9/13 courses)
+- **IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Specialization Certificate, Coursera</u> -** - (4 courses: Introduction to Deep Learning & Neural Networks with Keras, Deep Learning with Keras and Tensorflow, Introduction to Neural Networks and PyTorch, Deep Learning with PyTorch, AI Capstone Project with Deep Learning)
+- **<u>TensorFlow Developer Professional Specialization Certificate, DeepLearning.AI via Coursera</u>** - (4 courses: Intro to TensorFlow, CNNs, NLP, Time Series)
+- **<u>Machine Learning Professional Specialization Certificate, Stanford Online via Coursera</u>** - (3 courses: Supervised ML, Advanced Algorithms, Unsupervised Learning)
+- **<u>HarvardX Professional Certificate for Computer Science for Artificial Intelligence</u>** - CS50AI: Artificial Intelligence with Python, CS50x: Introduction to Computer Science
 - **<u>Java Certification Program, W3Schools</u>** 
 
 ## 📫 <u>Contact Me</u>
