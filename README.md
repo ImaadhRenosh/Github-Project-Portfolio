@@ -1,10 +1,10 @@
 <h2 align="left"><u>Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of AI with my expertise!</u></h2>
 
-<p align="left"><u>I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, and machine learning, driven by a relentless curiosity for innovation. Through my academic and personal projects, I have developed a deep understanding of AI/ML principles and their practical applications
+<p align="left"><u>I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, Machine Learning and Deep Learning, driven by a relentless curiosity for innovation. Through my academic and personal projects, I have developed a deep understanding of AI/ML principles and their practical applications
 
 These projects have enabled me to gain practical expertise in Machine learning, deep learning, natural language processing, and computer vision. Moreover, I thrive on transforming complex data into intelligent, scalable solutions that drive real-world impact.
 
-I’m actively seeking an internship while I am in Sri Lanka, where I can contribute to innovative projects, collaborate with industry experts, and further hone my technical abilities as an AI engineer.
+I’m actively seeking an internship, where I can contribute to innovative projects, collaborate with industry experts, and further hone my technical abilities as an AI engineer.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" alt="Machine Learning Badge"/>
