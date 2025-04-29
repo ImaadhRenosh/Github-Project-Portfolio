@@ -38,6 +38,8 @@ I’m actively seeking an internship, where I can contribute to innovative proje
 
 ### <u>Primary Projects</u>
 
+- **[AI-Powered PDF QA Agent AI Capstone Project using IBM Foundation Models, LangChain & Gradio](https://github.com/ImaadhRenosh/IBM-Certified-QA-AI-Agent-using-RAG-with-IBM-Watsonx-LangChain-Gradio):**  
+  Built an intelligent question-answering agent, powered by IBM Watsonx LLMs and LangChain RAG pipelines, enabling real-time querying of user-uploaded PDFs via a sleek Gradio interface. Optimized for enterprise document analysis, insights, and automation use cases.
 - **[IBM-certified Capstone Project: AI-powered Concrete Crack Detection System (Resnet-18)](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project):**  
   Developed an AI-powered system using PyTorch to detect cracks in concrete structures, which involved fine-tuning a pre-trained ResNet18 model, analyzing training loss curves, and identifying misclassified samples to improve structural health monitoring, finally achieving 99.43% accuracy on the validation dataset.
 - **[Game Match Win Prediction Model (League of Legends)](https://github.com/ImaadhRenosh/Game-Match-Win-Prediction-Model-League-of-Legends-):**
