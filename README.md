@@ -18,11 +18,33 @@ I'm an AI/ML engineer with a strong foundation in Python, machine learning, and 
 </div>
 
 ## 🛠️ <u>Technical Skills</u>
-<div align="center"> <!-- Existing Images --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn logo" /> <!-- New Images --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV logo" /> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace logo" /> <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/ui/assets/img/gradio.svg" height="40" alt="Gradio logo" /> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" alt="Streamlit logo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Yolo-logo-dark.svg" height="40" alt="YOLOv8 logo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="40" alt="IBM WatsonX logo" /> </div>
+<div align="center">
+  <!-- Existing Images -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" />
+  <img src="https://gradio.app/assets/images/logo.png" height="40" alt="Gradio logo" /> <!-- Added Gradio Image -->
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8_logo.png" height="40" alt="YOLOv8 logo" /> <!-- Added YOLOv8 Image -->
+</div>
 
 ### 🛠️ Tech Stack
-Python • PyTorch • TensorFlow • LangChain • HuggingFace • IBM WatsonX • OpenCV • YOLOv8 • Scikit-learn • FastAPI • Gradio • Streamlit • Git
+Here’s a list of tools and technologies I work with:
 
+- **Python**: A versatile programming language used for building various AI and machine learning models.
+- **PyTorch**: An open-source machine learning library widely used for deep learning applications.
+- **TensorFlow**: A popular framework for building and deploying machine learning models at scale.
+- **LangChain**: A framework for developing applications powered by language models.
+- **HuggingFace**: A library for natural language processing with pre-trained models for tasks like text classification and sentiment analysis.
+- **IBM WatsonX**: A platform for building and scaling AI systems with pre-trained foundation models.
+- **OpenCV**: An open-source library for computer vision tasks like image processing and real-time object detection.
+- **YOLOv8**: A state-of-the-art object detection algorithm optimized for speed and accuracy.
+- **Scikit-learn**: A machine learning library for predictive data analysis.
+- **FastAPI**: A modern web framework for building APIs with Python.
+- **Gradio**: A Python library for creating user-friendly web interfaces for machine learning models.
+- **Streamlit**: A framework for building machine learning and data science dashboards.
+- **Git**: A version control system for tracking code changes and collaborating on projects.
 
 ## 🌟 <u>Key Projects</u>
 
