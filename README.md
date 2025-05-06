@@ -1,10 +1,14 @@
 <h2 align="left"><u>Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of AI with my expertise!</u></h2>
 
-<p align="left"><u>I am a passionate AI/ML engineer with a robust foundation in computer science, Python programming, Machine Learning and Deep Learning, driven by a relentless curiosity for innovation. Through my academic and personal projects, I have developed a deep understanding of AI/ML principles and their practical applications
+# 👋 Hi, I'm Imaadh — AI Engineer | IBM + DeepLearning.ai + Stanford + Harvard Certified | Building Agentic AI, QA Bots & CV Systems
 
-These projects have enabled me to gain practical expertise in Machine learning, deep learning, natural language processing, and computer vision. Moreover, I thrive on transforming complex data into intelligent, scalable solutions that drive real-world impact.
+I'm an AI/ML engineer with a strong foundation in Python, machine learning, and deep learning — certified by IBM, DeepLearning.ai, Stanford, and Harvard. Passionate about solving real-world problems using AI, I specialize in:
 
-I’m actively seeking an internship, where I can contribute to innovative projects, collaborate with industry experts, and further hone my technical abilities as an AI engineer.
+- 🤖 Agentic AI systems for business automation
+- 🧠 QA bots powered by LLMs (LangChain, Watsonx)
+- 👁️ Computer vision solutions using YOLOv8, HuggingFace models, and PyTorch
+- 🌍 Real-world AI projects that save lives, reduce cost, and boost efficiency
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" alt="Machine Learning Badge"/>
@@ -23,15 +27,9 @@ I’m actively seeking an internship, where I can contribute to innovative proje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn logo" />
 </div>
-<ul>
-  <li><b><u>Python</u></b>: Extensive experience in developing ML models and data processing.</li>
-  <li><b><u>TensorFlow</u></b>: Developed and deployed deep learning models for image recognition.</li>
-  <li><b><u>Java</u></b>: Built backend systems and integrated APIs for data processing.</li>
-  <li><b><u>VSCode</u></b>: Proficient in using VSCode for coding and debugging.</li>
-  <li><b><u>NumPy</u></b>: Utilized for numerical computations and data manipulation.</li>
-  <li><b><u>Matplotlib</u></b>: Used for data visualization and plotting complex graphs.</li>
-  <li><b><u>Scikit-Learn</u></b>: Implemented machine learning algorithms and models.</li>
-</ul>
+
+### 🛠️ Tech Stack
+Python • PyTorch • TensorFlow • LangChain • HuggingFace • IBM WatsonX • OpenCV • YOLOv8 • Scikit-learn • FastAPI • Gradio • Streamlit • Git
 
 
 ## 🌟 <u>Key Projects</u>
