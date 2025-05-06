@@ -17,17 +17,28 @@ I'm an AI/ML engineer with a strong foundation in Python, machine learning, and 
   <img src="https://img.shields.io/badge/NLP-Expert-red" alt="NLP Badge"/>
 </div>
 
-## 🛠️ <u>Technical Skills</u>
-<div align="center">
-  <!-- Existing Images -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" />
-  <img src="https://gradio.app/assets/images/logo.png" height="40" alt="Gradio logo" /> <!-- Added Gradio Image -->
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8_logo.png" height="40" alt="YOLOv8 logo" /> <!-- Added YOLOv8 Image -->
-</div>
+## Technical Skills
+
+### AI Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%2300FF?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD000?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Computer Vision Tools
+![YOLOv8](https://img.shields.io/badge/YOLOv8-%23FF0000?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white?style=for-the-badge&logo=opencv&logoColor=black)
+
+### Development Tools
+![Gradio](https://img.shields.io/badge/Gradio-%23F37626?style=for-the-badge&logo=gradio&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🛠️ Tech Stack
 Here’s a list of tools and technologies I work with:
