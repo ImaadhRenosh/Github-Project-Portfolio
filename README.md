@@ -1,6 +1,6 @@
 <h2 align="left"><u>Hi, my name is Imaadh! I am an AI engineer looking to enhance the world of AI with my expertise!</u></h2>
 
-# 👋 Hi, I'm Imaadh — AI Engineer | IBM + DeepLearning.ai + Stanford + Harvard Certified | Building Agentic AI, QA Bots & CV Systems
+# 👋 Hi, I'm Imaadh AI Engineer | IBM + DeepLearning.ai + Stanford + Harvard Certified | Building Agentic AI, QA Bots & CV Systems
 
 I'm an AI/ML engineer with a strong foundation in Python, machine learning, and deep learning — certified by IBM, DeepLearning.ai, Stanford, and Harvard. Passionate about solving real-world problems using AI, I specialize in:
 
