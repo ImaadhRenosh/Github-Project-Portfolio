@@ -62,6 +62,10 @@ Here’s a list of tools and technologies I work with:
 
 ### <u>Primary Projects</u>
 
+
+- **[LinkedIn Icebreaker Bot : IBM watsonx + LlamaIndex](https://github.com/ImaadhRenosh/IBM-AI-Icebreaker-Bot-with-LlamaIndex-IBM-Granite):**  
+  AI bot that generates personalized LinkedIn conversation starters, using IBM watsonx, LlamaIndex, RAG and LLMs for context-aware networking icebreakers.  
+  Features both CLI and Gradio app, requiring no API key, with a full workflow covering data extraction, embedding, retrieval, and generation for tailored conversations.
 - **[AI-Powered PDF QA Agent AI Capstone Project using IBM Foundation Models, LangChain & Gradio](https://github.com/ImaadhRenosh/IBM-Certified-QA-AI-Agent-using-RAG-with-IBM-Watsonx-LangChain-Gradio):**  
   Built an intelligent question-answering agent, powered by IBM Watsonx LLMs and LangChain RAG pipelines, enabling real-time querying of user-uploaded PDFs via a sleek Gradio interface. Optimized for enterprise document analysis, insights, and automation use cases.
 - **[IBM-certified Capstone Project: AI-powered Concrete Crack Detection System (Resnet-18)](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project):**  
