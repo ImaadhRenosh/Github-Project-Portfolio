@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Imaadh AI Engineer | IBM + DeepLearning.ai + Stanford + Harvard Certified | Building Agentic AI, QA Bots & CV Systems
 
-I'm an AI/ML engineer with a strong foundation in Python, machine learning, and deep learning — certified by IBM, DeepLearning.ai, Stanford, and Harvard. Passionate about solving real-world problems using AI, I specialize in:
+I'm an AI/ML engineer with a strong foundation in Python, machine learning, and deep learning, certified by: IBM, DeepLearning.ai, Stanford, and Harvard. Passionate about solving real-world problems using AI, I specialize in:
 
 - 🤖 Agentic AI systems for business automation
 - 🧠 QA bots powered by LLMs (LangChain, Watsonx)
-- 👁️ Computer vision solutions using YOLOv8, HuggingFace models, and PyTorch
+- 👁️ Computer vision solutions using HuggingFace models, and PyTorch
 - 🌍 Real-world AI projects that save lives, reduce cost, and boost efficiency
 
 
@@ -25,14 +25,11 @@ I'm an AI/ML engineer with a strong foundation in Python, machine learning, and 
 ![LangChain](https://img.shields.io/badge/LangChain-%2300FF?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD000?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Computer Vision Tools
-![YOLOv8](https://img.shields.io/badge/YOLOv8-%23FF0000?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white?style=for-the-badge&logo=opencv&logoColor=black)
-
-### Development Tools
-![Gradio](https://img.shields.io/badge/Gradio-%23F37626?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### Programming Languages
+
+![Gradio](https://img.shields.io/badge/Gradio-%23F37626?style=for-the-badge&logo=gradio&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -50,12 +47,8 @@ Here’s a list of tools and technologies I work with:
 - **LangChain**: A framework for developing applications powered by language models.
 - **HuggingFace**: A library for natural language processing with pre-trained models for tasks like text classification and sentiment analysis.
 - **IBM WatsonX**: A platform for building and scaling AI systems with pre-trained foundation models.
-- **OpenCV**: An open-source library for computer vision tasks like image processing and real-time object detection.
-- **YOLOv8**: A state-of-the-art object detection algorithm optimized for speed and accuracy.
 - **Scikit-learn**: A machine learning library for predictive data analysis.
-- **FastAPI**: A modern web framework for building APIs with Python.
 - **Gradio**: A Python library for creating user-friendly web interfaces for machine learning models.
-- **Streamlit**: A framework for building machine learning and data science dashboards.
 - **Git**: A version control system for tracking code changes and collaborating on projects.
 
 ## 🌟 <u>Key Projects</u>
