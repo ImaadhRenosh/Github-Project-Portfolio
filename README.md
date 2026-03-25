@@ -115,9 +115,6 @@ Here’s a list of tools and technologies I work with:
   <a href="mailto:imaadhrenosh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://www.instagram.com/ai_maadh/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
 </div>
 
 ## 🐍 <u>My Contribution Snake</u>
